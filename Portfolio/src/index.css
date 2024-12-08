@@ -52,7 +52,7 @@ body {
 
 #section2{
   position: relative;
-  perspective: 2500px;
+  perspective: 3000px;
 }
 
 #tiltDiv{
@@ -60,5 +60,5 @@ body {
 }
 
 .rotateText{
-  transform-origin: 100% 70%;
+  /* transform-origin: 100% 70%; */
 }
